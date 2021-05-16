@@ -1,2 +1,2 @@
-# resume
+# view code
 my_resume
